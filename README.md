@@ -11,7 +11,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwertyuiop4m)](https://github.com/qwertyuiop4m/github-readme-stats)
 
  ---
-- 🔭 I’m currently working on ...
+ <p align="center"> My main Techs </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
