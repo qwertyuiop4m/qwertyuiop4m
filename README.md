@@ -1,10 +1,16 @@
-## Hi there 👋
+<div align="center">
+  
+  ### Kim Chang Woo
+  
+  <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
-<!--
-**qwertyuiop4m/qwertyuiop4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
+</div>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuiop4m)](https://github.com/qwertyuiop4m/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwertyuiop4m)](https://github.com/qwertyuiop4m/github-readme-stats)
 
+ ---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
