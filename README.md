@@ -11,7 +11,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwertyuiop4m)](https://github.com/qwertyuiop4m/github-readme-stats)
 
  ---
-<p align="center"> My main Techs </p>
+### <p align="center"> My main Techs </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" width="50" height="50">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" width="50" height="50">
