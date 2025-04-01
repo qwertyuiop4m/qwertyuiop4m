@@ -1,9 +1,7 @@
 <div align="center">
   
-  # Kim Changwoo
+ # Kim Changwoo
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
-
-  
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuiop4m)](https://github.com/qwertyuiop4m/github-readme-stats)
